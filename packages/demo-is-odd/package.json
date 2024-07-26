@@ -23,6 +23,7 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "demo-is-even": "^1.0.0"
-  }
+    "demo-is-even": "*"
+  },
+  "gitHead": "27150af6676ff21e896d5496310d4d12794c597a"
 }
