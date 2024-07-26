@@ -24,6 +24,5 @@
   },
   "dependencies": {
     "demo-is-even": "*"
-  },
-  "gitHead": "27150af6676ff21e896d5496310d4d12794c597a"
+  }
 }
